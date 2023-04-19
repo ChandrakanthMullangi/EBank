@@ -1,0 +1,35 @@
+.home {
+  background-color: #183b56;
+  min-height: 100vh;
+  padding: 25px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout-button {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.digital-card-container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 50px;
+  color: #ffffff;
+}
